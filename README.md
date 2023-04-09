@@ -61,4 +61,3 @@ Open HYROCOPT HACK.exe.
 Open Steam or Origin and launch Apex.
 
 Enjoy
-# PASSWORD FOR ZIP ARCHIVE: 23
